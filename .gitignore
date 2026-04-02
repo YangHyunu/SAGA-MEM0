@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+.env
+*.db
+qdrant_db/
+
+logs/
+*.jsonl
+
+.omc/
+.claude/
+
+.DS_Store
